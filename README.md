@@ -62,7 +62,7 @@ The evaluation corpora (MFRC, MFTC, MFTCXplain) and the lexicons used for compar
 
 ## License
 
-The lexicons in `lexicons/` are released under the Creative Commons Attribution 4.0 International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). The code in `evaluation/` is released under the MIT License (see `LICENSE`). The code in `code/` comes from the MoralTrajectories project (https://github.com/oaraque/moral-trajectories) and is released under the MIT License, Copyright (c) 2026 Oscar Araque (see `code/NOTICE`).
+Unless otherwise stated, the code in this repository is released under the MIT License (see `LICENSE`). The lexicons in `lexicons/` are an exception: they are released under the Creative Commons Attribution 4.0 International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). The code in `code/` comes from the MoralTrajectories project (https://github.com/oaraque/moral-trajectories), is released under the MIT License, Copyright (c) 2026 Oscar Araque, and keeps its own notice in `code/NOTICE`.
 
 ## Citation
 
