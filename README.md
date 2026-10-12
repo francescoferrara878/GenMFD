@@ -1,6 +1,6 @@
 # GenMFD: A Moral Lexicon Extracted from LLM-Generated Texts
 
-Resources accompanying the master's thesis *GenMFD: A Moral Lexicon Extracted from LLM-Generated Texts* (Francesco Maria Ferrara, MSc in Linguistic Sciences, University of Turin, 2026).
+Resources accompanying the master's thesis *GenMFD: A Moral Lexicon Extracted from LLM-Generated Texts* (Francesco Maria Ferrara, Linguistic Sciences, University of Turin, 2026).
 
 GenMFD is a pair of word-level moral lexicons built through compositional semantics (TF-IDF word-by-foundation weights, normalized per word) from texts of the MoralTrajectories dataset.
 
